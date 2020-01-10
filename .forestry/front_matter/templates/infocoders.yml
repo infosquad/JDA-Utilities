@@ -9,3 +9,4 @@ fields:
   label: Welcome
   description: Help
   hidden: false
+  default: "/uploads/E03A43E6-73DB-41E1-BF21-79AA475D9FE7.jpeg"
